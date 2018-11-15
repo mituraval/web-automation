@@ -17,7 +17,7 @@ public class HomePage {
 		 
 
 		element = driver.findElement(By.linkText("Users"));
-		   // driver.findElement(By.linkText("Users")).click();
+	
 		   return element;
 		 
 		   }
